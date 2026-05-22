@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#ecf0f1"/>
+  <g transform="translate(200,200)" text-anchor="middle" font-family="Arial, sans-serif" fill="#95a5a6">
+    <text y="-30" font-size="80">📦</text>
+    <text y="40" font-size="20" font-weight="bold">QuadToys</text>
+    <text y="65" font-size="14">Imagem indisponível</text>
+  </g>
+</svg>

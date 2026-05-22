@@ -1,0 +1,10 @@
+{
+    "gabriela": {
+        "senha": "$2y$10$KH/GpOnQMrCm07hN7YRO0ea6fYykk8XP5UbS42icwaVeKfSYZJF0W",
+        "primeiro_acesso": false
+    },
+    "odair": {
+        "senha": "$2y$10$AxY7d8VZAq6hLRcDTCFtKeBpg/895rrW/i0CJCIb6DmYPI2u.eFxm",
+        "primeiro_acesso": false
+    }
+}
